@@ -1,0 +1,7 @@
+G:\Dnata.FlightApp\Dnata.FlightApp\bin\Debug\Dnata.FlightApp.exe.config
+G:\Dnata.FlightApp\Dnata.FlightApp\bin\Debug\Dnata.FlightApp.exe
+G:\Dnata.FlightApp\Dnata.FlightApp\bin\Debug\Dnata.FlightApp.pdb
+G:\Dnata.FlightApp\Dnata.FlightApp\obj\Debug\Dnata.FlightApp.csprojAssemblyReference.cache
+G:\Dnata.FlightApp\Dnata.FlightApp\obj\Debug\Dnata.FlightApp.csproj.CoreCompileInputs.cache
+G:\Dnata.FlightApp\Dnata.FlightApp\obj\Debug\Dnata.FlightApp.exe
+G:\Dnata.FlightApp\Dnata.FlightApp\obj\Debug\Dnata.FlightApp.pdb
